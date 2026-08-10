@@ -1,0 +1,24 @@
+# Raw / large source data — never commit, always re-derivable from public downloads
+**/raw/
+**/*.zip
+**/ncvoter_*.txt
+**/ncvhis_*.txt
+**/SBE_PRECINCTS_*.shp
+**/SBE_PRECINCTS_*.dbf
+**/SBE_PRECINCTS_*.shx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Jekyll / GitHub Pages build output
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# OS
+.DS_Store
+Thumbs.db

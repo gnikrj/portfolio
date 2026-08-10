@@ -1,0 +1,161 @@
+customer_id,customer_name,segment,region,payment_terms_days
+C0001,"Rodriguez, Figueroa and Sanchez",SMB,Midwest,30
+C0002,Doyle Ltd,SMB,International,30
+C0003,"Mcclain, Miller and Henderson",SMB,West,30
+C0004,Davis and Sons,Enterprise,West,60
+C0005,"Guzman, Hoffman and Baldwin",Mid-Market,West,45
+C0006,"Gardner, Robinson and Lawrence",SMB,West,30
+C0007,Blake and Sons,Mid-Market,International,45
+C0008,"Henderson, Ramirez and Lewis",SMB,Northeast,30
+C0009,Garcia-James,SMB,Northeast,30
+C0010,Abbott-Munoz,SMB,International,30
+C0011,Blair PLC,Mid-Market,Midwest,45
+C0012,Dudley Group,Mid-Market,Northeast,45
+C0013,Arnold Ltd,SMB,Midwest,30
+C0014,"Mcclure, Ward and Lee",Mid-Market,Southeast,45
+C0015,Williams and Sons,Mid-Market,West,45
+C0016,Galloway-Wyatt,Mid-Market,Midwest,45
+C0017,James Group,Mid-Market,West,45
+C0018,"Flowers, Martin and Kelly",SMB,International,30
+C0019,"Adams, Zuniga and Wong",Mid-Market,West,45
+C0020,"Reid, Ferguson and Sanchez",Mid-Market,Northeast,45
+C0021,Gray-Mayo,SMB,Midwest,30
+C0022,"Watts, Robinson and Nguyen",SMB,West,30
+C0023,Perez Inc,SMB,Southeast,30
+C0024,Morales-Jones,SMB,Northeast,30
+C0025,"Walter, Edwards and Rios",SMB,Midwest,30
+C0026,Wilkerson-Day,SMB,West,30
+C0027,Baker and Sons,Mid-Market,Southeast,45
+C0028,"Hoffman, Baker and Richards",Mid-Market,Midwest,45
+C0029,"Ross, Robinson and Bright",SMB,International,30
+C0030,"Snyder, Campos and Callahan",Mid-Market,Northeast,45
+C0031,Burton Ltd,SMB,Midwest,30
+C0032,Carlson-Cruz,SMB,West,30
+C0033,"Ferrell, Rice and Maddox",SMB,Southeast,30
+C0034,Frazier Inc,Enterprise,Northeast,60
+C0035,"Dyer, Potter and Mack",Mid-Market,International,45
+C0036,Rodriguez-Graham,Mid-Market,Midwest,45
+C0037,Smith-Bowen,Mid-Market,Southeast,45
+C0038,"Baker, Mason and White",SMB,Southeast,30
+C0039,Harrell LLC,Enterprise,Southeast,60
+C0040,"Romero, Gonzalez and Brooks",SMB,International,30
+C0041,Ryan PLC,Mid-Market,Southeast,45
+C0042,George Group,SMB,West,30
+C0043,Rodriguez LLC,Mid-Market,Midwest,45
+C0044,Allen-Allen,Mid-Market,International,45
+C0045,"Arroyo, Miller and Tucker",Mid-Market,Midwest,45
+C0046,Spence PLC,SMB,Northeast,30
+C0047,Anderson Group,SMB,Southeast,30
+C0048,"Martin, Rose and Obrien",SMB,West,30
+C0049,Hickman Ltd,Enterprise,West,60
+C0050,"Harris, Collins and Carney",Mid-Market,Northeast,45
+C0051,"Brooks, Lam and Hayes",Enterprise,Northeast,60
+C0052,Walker LLC,Mid-Market,Midwest,45
+C0053,Chapman and Sons,SMB,West,30
+C0054,"Robinson, Jones and Welch",Enterprise,Midwest,60
+C0055,Jones Inc,Mid-Market,Northeast,45
+C0056,Jones-Young,Mid-Market,Northeast,45
+C0057,"Washington, Ryan and Cummings",SMB,Midwest,30
+C0058,"Johnston, Sanchez and Kennedy",Mid-Market,Midwest,45
+C0059,Lee-Davis,SMB,Southeast,30
+C0060,Gomez-Jenkins,SMB,Northeast,30
+C0061,"Brown, Valdez and Lucas",Enterprise,Southeast,60
+C0062,Powell LLC,SMB,Northeast,30
+C0063,Wright and Sons,SMB,Southeast,30
+C0064,"West, Henderson and Ramirez",SMB,Northeast,30
+C0065,Baxter Inc,Enterprise,Midwest,60
+C0066,Morton-Chase,SMB,Southeast,30
+C0067,Williams PLC,Mid-Market,West,45
+C0068,Novak and Sons,SMB,Southeast,30
+C0069,Russell Group,SMB,Midwest,30
+C0070,Hancock Inc,Mid-Market,Northeast,45
+C0071,Gray Group,SMB,International,30
+C0072,House-Glover,SMB,International,30
+C0073,Henderson-Bernard,Mid-Market,Southeast,45
+C0074,"Stanley, Tucker and Lee",Mid-Market,West,45
+C0075,Novak PLC,SMB,Northeast,30
+C0076,"Daniels, Adkins and Brown",Mid-Market,International,45
+C0077,"Woods, Calhoun and Schmidt",SMB,West,30
+C0078,Yu Inc,SMB,Northeast,30
+C0079,Jones Inc,Mid-Market,Southeast,45
+C0080,"Hensley, Powell and David",SMB,International,30
+C0081,"Sanchez, Wheeler and Harvey",Enterprise,Southeast,60
+C0082,Sandoval-Cunningham,SMB,Northeast,30
+C0083,Donovan-Harris,SMB,West,30
+C0084,"Edwards, Baker and Anderson",Mid-Market,Midwest,45
+C0085,"Evans, Stewart and Walton",SMB,International,30
+C0086,Smith PLC,Enterprise,Northeast,60
+C0087,"Ferrell, Jones and Lewis",Mid-Market,Northeast,45
+C0088,Anderson-Bailey,SMB,Midwest,30
+C0089,Suarez LLC,Mid-Market,Midwest,45
+C0090,Moore-Bass,SMB,Northeast,30
+C0091,"Turner, Riggs and Roman",Enterprise,West,60
+C0092,"Smith, Montoya and Evans",SMB,Midwest,30
+C0093,"Garcia, Humphrey and Baker",SMB,Midwest,30
+C0094,Newton and Sons,SMB,Midwest,30
+C0095,Campbell-Clark,Enterprise,Southeast,60
+C0096,Harris-Walters,Mid-Market,West,45
+C0097,Wagner-King,SMB,Northeast,30
+C0098,Davis Group,Mid-Market,Southeast,45
+C0099,Williams-Cook,SMB,Midwest,30
+C0100,Walsh LLC,Mid-Market,Southeast,45
+C0101,Figueroa PLC,SMB,International,30
+C0102,"Patterson, Smith and Jones",SMB,Northeast,30
+C0103,"Mckee, Gardner and Davenport",SMB,International,30
+C0104,"Tran, Jordan and Williams",SMB,Northeast,30
+C0105,Nolan-Flynn,Mid-Market,Midwest,45
+C0106,Nolan and Sons,Enterprise,Northeast,60
+C0107,"Wright, Garcia and Deleon",Mid-Market,Midwest,45
+C0108,Dickson-Brady,SMB,Midwest,30
+C0109,Hancock and Sons,Mid-Market,West,45
+C0110,Johnson-Doyle,SMB,International,30
+C0111,Patton-Jenkins,Mid-Market,Southeast,45
+C0112,"Shields, Cochran and Adams",SMB,Southeast,30
+C0113,"Rodriguez, Brennan and Garrison",Enterprise,Northeast,60
+C0114,Gonzalez Group,Enterprise,International,60
+C0115,Torres-Pope,Enterprise,International,60
+C0116,Walker Ltd,SMB,International,30
+C0117,Ross LLC,SMB,West,30
+C0118,Rasmussen LLC,Enterprise,West,60
+C0119,May-Ross,SMB,International,30
+C0120,"Rivera, Johnson and Wiley",Mid-Market,Midwest,45
+C0121,White-Estes,Mid-Market,Midwest,45
+C0122,Johnson-Carlson,Mid-Market,Midwest,45
+C0123,Chandler-Edwards,Mid-Market,West,45
+C0124,"Joyce, Wilson and Lam",Mid-Market,Southeast,45
+C0125,Scott Ltd,Mid-Market,West,45
+C0126,Smith-Frost,Mid-Market,International,45
+C0127,"Mcdaniel, Bentley and Mclaughlin",SMB,Midwest,30
+C0128,Diaz Inc,SMB,West,30
+C0129,"Mccall, Hanson and Alvarado",SMB,Northeast,30
+C0130,Cortez LLC,Mid-Market,West,45
+C0131,"Parker, Ortiz and Powell",SMB,International,30
+C0132,Spencer-Lee,Enterprise,West,60
+C0133,"Bentley, Byrd and Orr",Enterprise,West,60
+C0134,"Carroll, Sullivan and Bass",SMB,Northeast,30
+C0135,Mitchell-Jordan,SMB,International,30
+C0136,"Lawson, Morris and Ramos",SMB,West,30
+C0137,"Lewis, Kennedy and Santana",SMB,Midwest,30
+C0138,"Jackson, Miller and Robertson",Mid-Market,West,45
+C0139,"Harvey, Davis and Crane",SMB,West,30
+C0140,Chambers and Sons,SMB,Midwest,30
+C0141,Hernandez Inc,Mid-Market,Northeast,45
+C0142,Riggs PLC,Enterprise,International,60
+C0143,Gibson Ltd,Enterprise,West,60
+C0144,"Lee, Horton and Snyder",SMB,Midwest,30
+C0145,Hernandez Ltd,Mid-Market,International,45
+C0146,Stafford Inc,Mid-Market,West,45
+C0147,Robinson-Brock,Mid-Market,International,45
+C0148,"Holmes, Williams and Wright",SMB,Northeast,30
+C0149,Bryant Group,Mid-Market,Northeast,45
+C0150,"Schmidt, Hansen and Stewart",SMB,Midwest,30
+C0151,Salazar-Ball,Mid-Market,West,45
+C0152,"Simmons, Meadows and Griffin",SMB,International,30
+C0153,Manning Group,Enterprise,International,60
+C0154,Green-Wright,Enterprise,West,60
+C0155,"Ramirez, Strickland and Washington",SMB,Northeast,30
+C0156,Hill Inc,SMB,Midwest,30
+C0157,"Mitchell, Nelson and Flores",Mid-Market,Northeast,45
+C0158,"Miller, Hernandez and Reyes",SMB,Southeast,30
+C0159,Mccarthy Inc,Enterprise,Northeast,60
+C0160,Russell-Daniels,Mid-Market,International,45
