@@ -133,6 +133,42 @@ partners aggregate many end clients.
   consider consolidated partner statements and terms that match when
   partners get paid by their own clients.
 
+## How this maps to a Zuora + Salesforce stack
+
+The simulation is tool-agnostic. In a Zuora Billing / Salesforce CPQ
+environment, the same logic maps like this:
+
+| In this project | In Zuora / Salesforce |
+|---|---|
+| Price book v1 → v2 | Product catalog: new product rate plan (bundled per-GB charge) alongside the legacy plan + AI usage charge |
+| Contract moves at renewal | Renewal **amendment** swapping rate plans. The four exception types are what an incomplete amendment looks like |
+| Metered usage feed | Usage records uploaded against the usage charge before the bill run |
+| Independent re-rating | **Pre-bill-run review**: re-rate the draft bill run from the Salesforce contract + usage file and hold exceptions before posting |
+| Credit memo vs. rebill worklist | Zuora credit memos / invoice adjustments with approval workflow; supplemental invoice for missed overage |
+| Commit vs. overage | Committed-volume charge + overage (tiered/volume) charge model |
+
+### Control matrix sketch (billing operations)
+
+| ID | Control | Type | Frequency | Evidence |
+|---|---|---|---|---|
+| BIL-01 | New/amended subscriptions tie to the signed order form (rate plan, price, dates) | Key, manual + report | Per amendment | Order form ↔ subscription comparison, reviewer sign-off |
+| BIL-02 | Pre-bill-run re-rating: draft invoices tie to contract × usage within tolerance | Key, automated + review | Each bill run | Exception report (this project's `billing_exceptions.csv`) + disposition |
+| BIL-03 | Usage upload completeness: usage records = metered usage from the platform | Key, automated | Each bill run | Record-count and GB reconciliation |
+| BIL-04 | Credit memos / adjustments over threshold are approved and reason-coded | Key, manual | Per transaction | Approval log |
+| BIL-05 | No legacy (v1) charges billed on migrated (v2) subscriptions | Transition, automated | Monthly during migration | The "no AI add-on on bundled contracts" test above |
+
+### Natural extensions
+
+- **Multi-entity / multi-currency:** add billing entity and invoice
+  currency to accounts, rate in local currency, and re-run the tie-out
+  per entity with FX at invoice date.
+- **Partner statements:** consolidate reseller invoices and track partner
+  DSO against partners' own collection timing.
+- **AI-assisted triage:** have an LLM draft the exception disposition
+  (credit vs. rebill, customer note) from the contract and usage record for
+  a human to approve. It speeds up the review without taking the approval
+  out of the control.
+
 ## Reproducing this analysis
 
 ```bash
