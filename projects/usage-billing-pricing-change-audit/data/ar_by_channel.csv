@@ -1,0 +1,4 @@
+channel,open_ar,pct_past_due,dso_days,avg_days_to_pay,dispute_rate_pct,usage_volatility_cv
+Partner (Reseller),16386600.0,23.6,78.0,84.2,5.2,0.37
+Direct - Corporate,2204578.0,35.0,40.3,54.6,6.8,0.31
+Direct - Law Firm,726859.0,29.0,36.4,43.8,6.2,0.38

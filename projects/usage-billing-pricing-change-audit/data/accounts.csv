@@ -1,0 +1,121 @@
+account_id,channel,payment_terms_days,contract_anniversary_month,committed_gb_per_month,v2_effective_month
+A0001,Direct - Law Firm,30,9,1050,2026-09-01
+A0002,Direct - Law Firm,30,4,1050,2026-04-01
+A0003,Partner (Reseller),60,2,6400,2026-02-01
+A0004,Direct - Corporate,45,12,1550,2025-12-01
+A0005,Partner (Reseller),60,10,9800,2026-10-01
+A0006,Direct - Corporate,45,11,800,2025-11-01
+A0007,Direct - Corporate,45,2,1700,2026-02-01
+A0008,Direct - Law Firm,30,6,650,2026-06-01
+A0009,Direct - Corporate,45,12,2150,2025-12-01
+A0010,Direct - Corporate,45,8,2550,2026-08-01
+A0011,Partner (Reseller),60,3,6850,2026-03-01
+A0012,Partner (Reseller),60,6,2450,2026-06-01
+A0013,Partner (Reseller),60,9,5250,2026-09-01
+A0014,Direct - Law Firm,30,8,450,2026-08-01
+A0015,Direct - Law Firm,30,7,1150,2026-07-01
+A0016,Direct - Law Firm,30,7,850,2026-07-01
+A0017,Direct - Corporate,45,1,1400,2026-01-01
+A0018,Direct - Corporate,45,1,2100,2026-01-01
+A0019,Partner (Reseller),60,7,2850,2026-07-01
+A0020,Partner (Reseller),60,12,7450,2025-12-01
+A0021,Partner (Reseller),60,3,7250,2026-03-01
+A0022,Direct - Law Firm,30,8,700,2026-08-01
+A0023,Direct - Corporate,45,9,450,2026-09-01
+A0024,Direct - Law Firm,30,6,450,2026-06-01
+A0025,Direct - Law Firm,30,10,150,2026-10-01
+A0026,Partner (Reseller),60,9,5950,2026-09-01
+A0027,Direct - Law Firm,30,1,750,2026-01-01
+A0028,Direct - Law Firm,30,7,950,2026-07-01
+A0029,Partner (Reseller),60,4,1550,2026-04-01
+A0030,Direct - Corporate,45,11,1450,2025-11-01
+A0031,Direct - Law Firm,30,6,950,2026-06-01
+A0032,Direct - Corporate,45,3,900,2026-03-01
+A0033,Direct - Law Firm,30,4,1100,2026-04-01
+A0034,Direct - Corporate,45,2,2850,2026-02-01
+A0035,Direct - Law Firm,30,12,650,2025-12-01
+A0036,Direct - Law Firm,30,10,550,2026-10-01
+A0037,Partner (Reseller),60,2,2200,2026-02-01
+A0038,Partner (Reseller),60,9,4100,2026-09-01
+A0039,Partner (Reseller),60,2,8100,2026-02-01
+A0040,Direct - Law Firm,30,9,350,2026-09-01
+A0041,Partner (Reseller),60,10,10300,2026-10-01
+A0042,Direct - Law Firm,30,3,750,2026-03-01
+A0043,Partner (Reseller),60,10,6350,2026-10-01
+A0044,Direct - Corporate,45,9,550,2026-09-01
+A0045,Partner (Reseller),60,11,9150,2025-11-01
+A0046,Partner (Reseller),60,9,10700,2026-09-01
+A0047,Direct - Corporate,45,3,450,2026-03-01
+A0048,Direct - Corporate,45,12,850,2025-12-01
+A0049,Direct - Law Firm,30,2,300,2026-02-01
+A0050,Direct - Law Firm,30,7,1100,2026-07-01
+A0051,Partner (Reseller),60,3,7900,2026-03-01
+A0052,Direct - Corporate,45,3,2450,2026-03-01
+A0053,Direct - Corporate,45,7,1250,2026-07-01
+A0054,Direct - Law Firm,30,2,950,2026-02-01
+A0055,Partner (Reseller),60,4,2850,2026-04-01
+A0056,Direct - Corporate,45,8,1850,2026-08-01
+A0057,Direct - Corporate,45,6,2100,2026-06-01
+A0058,Partner (Reseller),60,5,4900,2026-05-01
+A0059,Partner (Reseller),60,2,3150,2026-02-01
+A0060,Direct - Corporate,45,2,1850,2026-02-01
+A0061,Direct - Corporate,45,11,1550,2025-11-01
+A0062,Direct - Law Firm,30,11,250,2025-11-01
+A0063,Direct - Law Firm,30,4,500,2026-04-01
+A0064,Direct - Corporate,45,3,1250,2026-03-01
+A0065,Partner (Reseller),60,10,7550,2026-10-01
+A0066,Partner (Reseller),60,11,2850,2025-11-01
+A0067,Direct - Corporate,45,9,2750,2026-09-01
+A0068,Partner (Reseller),60,6,8000,2026-06-01
+A0069,Partner (Reseller),60,11,5400,2025-11-01
+A0070,Partner (Reseller),60,1,9650,2026-01-01
+A0071,Direct - Law Firm,30,9,200,2026-09-01
+A0072,Direct - Corporate,45,4,1050,2026-04-01
+A0073,Partner (Reseller),60,7,2800,2026-07-01
+A0074,Direct - Law Firm,30,2,900,2026-02-01
+A0075,Partner (Reseller),60,2,9650,2026-02-01
+A0076,Direct - Corporate,45,11,2350,2025-11-01
+A0077,Direct - Law Firm,30,2,500,2026-02-01
+A0078,Partner (Reseller),60,6,7150,2026-06-01
+A0079,Partner (Reseller),60,10,5500,2026-10-01
+A0080,Direct - Law Firm,30,10,250,2026-10-01
+A0081,Direct - Corporate,45,5,2250,2026-05-01
+A0082,Direct - Corporate,45,6,600,2026-06-01
+A0083,Direct - Law Firm,30,12,600,2025-12-01
+A0084,Partner (Reseller),60,10,3750,2026-10-01
+A0085,Direct - Law Firm,30,2,150,2026-02-01
+A0086,Partner (Reseller),60,3,6250,2026-03-01
+A0087,Partner (Reseller),60,4,11100,2026-04-01
+A0088,Direct - Corporate,45,7,700,2026-07-01
+A0089,Direct - Corporate,45,3,850,2026-03-01
+A0090,Direct - Corporate,45,2,2100,2026-02-01
+A0091,Direct - Corporate,45,10,1700,2026-10-01
+A0092,Direct - Law Firm,30,12,950,2025-12-01
+A0093,Direct - Corporate,45,5,650,2026-05-01
+A0094,Direct - Corporate,45,9,2900,2026-09-01
+A0095,Direct - Law Firm,30,7,1100,2026-07-01
+A0096,Direct - Law Firm,30,12,200,2025-12-01
+A0097,Partner (Reseller),60,2,9450,2026-02-01
+A0098,Partner (Reseller),60,4,10400,2026-04-01
+A0099,Direct - Law Firm,30,4,300,2026-04-01
+A0100,Partner (Reseller),60,11,7750,2025-11-01
+A0101,Direct - Corporate,45,4,1700,2026-04-01
+A0102,Direct - Law Firm,30,6,950,2026-06-01
+A0103,Partner (Reseller),60,10,8250,2026-10-01
+A0104,Direct - Law Firm,30,1,850,2026-01-01
+A0105,Partner (Reseller),60,6,3650,2026-06-01
+A0106,Direct - Corporate,45,9,2250,2026-09-01
+A0107,Direct - Law Firm,30,6,550,2026-06-01
+A0108,Partner (Reseller),60,12,2350,2025-12-01
+A0109,Partner (Reseller),60,8,1900,2026-08-01
+A0110,Direct - Law Firm,30,10,200,2026-10-01
+A0111,Direct - Corporate,45,4,2650,2026-04-01
+A0112,Partner (Reseller),60,12,8900,2025-12-01
+A0113,Direct - Law Firm,30,10,800,2026-10-01
+A0114,Direct - Law Firm,30,6,550,2026-06-01
+A0115,Partner (Reseller),60,12,5450,2025-12-01
+A0116,Direct - Law Firm,30,1,500,2026-01-01
+A0117,Partner (Reseller),60,2,9700,2026-02-01
+A0118,Direct - Corporate,45,9,1400,2026-09-01
+A0119,Direct - Law Firm,30,10,800,2026-10-01
+A0120,Direct - Law Firm,30,2,300,2026-02-01

@@ -1,0 +1,6 @@
+control_test,population,exceptions,pass_rate_pct
+Hosting rate on invoice matches contracted price book,2760,79,97.1
+No AI add-on billed on bundled (v2) contracts,449,65,85.5
+All metered overage above commit is invoiced,1692,73,95.7
+Invoice total ties to re-rated contract x usage (+/- $1),2760,217,92.1
+"  ...same test, post price-change months only",1080,174,83.9

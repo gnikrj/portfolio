@@ -1,0 +1,218 @@
+invoice_id,account_id,channel,service_month,exception,billed_amount,expected_amount,variance,action,status,ever_disputed
+INV000263,A0011,Partner (Reseller),2026-07-01,Overage not billed,102750.0,349276.5,-246526.5,Rebill / supplemental invoice,Open,False
+INV000476,A0020,Partner (Reseller),2026-04-01,Overage not billed,111750.0,239041.5,-127291.5,Rebill / supplemental invoice,Paid,False
+INV000479,A0020,Partner (Reseller),2026-07-01,Overage not billed,111750.0,238239.0,-126489.0,Rebill / supplemental invoice,Open,False
+INV002085,A0087,Partner (Reseller),2026-05-01,Overage not billed,166500.0,289377.0,-122877.0,Rebill / supplemental invoice,Open,False
+INV001650,A0069,Partner (Reseller),2026-02-01,Overage not billed,81000.0,200068.5,-119068.5,Rebill / supplemental invoice,Paid,False
+INV000253,A0011,Partner (Reseller),2025-09-01,Overage not billed,139836.24,257407.44,-117571.2,Rebill / supplemental invoice,Paid,False
+INV002350,A0098,Partner (Reseller),2026-06-01,Stale v1 rate after renewal,451015.2,563769.0,-112753.8,Rebill / supplemental invoice,Open,False
+INV000446,A0019,Partner (Reseller),2025-10-01,Overage not billed,94183.28,201067.28,-106884.0,Rebill / supplemental invoice,Paid,False
+INV002322,A0097,Partner (Reseller),2026-02-01,Overage not billed,141750.0,235569.0,-93819.0,Rebill / supplemental invoice,Paid,True
+INV000259,A0011,Partner (Reseller),2026-03-01,AI add-on billed after bundle,290251.1,205963.5,84287.6,Issue credit memo,Paid,False
+INV000455,A0019,Partner (Reseller),2026-07-01,AI add-on billed after bundle,266979.38,183670.5,83308.88,Issue credit memo,Disputed,True
+INV002805,A0117,Partner (Reseller),2026-05-01,AI add-on billed after bundle,246689.54,174412.5,72277.04,Issue credit memo,Open,False
+INV001084,A0046,Partner (Reseller),2024-12-01,Overage not billed,150257.44,217584.64,-67327.2,Rebill / supplemental invoice,Paid,False
+INV000475,A0020,Partner (Reseller),2026-03-01,AI add-on billed after bundle,279356.12,212289.0,67067.12,Issue credit memo,Paid,True
+INV002325,A0097,Partner (Reseller),2026-05-01,AI add-on billed after bundle,219806.38,154903.5,64902.88,Issue credit memo,Disputed,True
+INV001549,A0065,Partner (Reseller),2025-09-01,Overage not billed,137822.56,199131.76,-61309.2,Rebill / supplemental invoice,Paid,False
+INV001100,A0046,Partner (Reseller),2026-04-01,Overage not billed,179154.24,240069.84,-60915.6,Rebill / supplemental invoice,Paid,False
+INV000261,A0011,Partner (Reseller),2026-05-01,Stale v1 rate after renewal,220016.4,275020.5,-55004.1,Rebill / supplemental invoice,Paid,False
+INV002058,A0086,Partner (Reseller),2026-02-01,Overage not billed,110580.96,165548.16,-54967.2,Rebill / supplemental invoice,Paid,False
+INV001815,A0076,Direct - Corporate,2025-11-01,Overage not billed,35250.0,89443.5,-54193.5,Rebill / supplemental invoice,Paid,False
+INV000614,A0026,Partner (Reseller),2025-10-01,Overage not billed,106522.56,160413.36,-53890.8,Rebill / supplemental invoice,Paid,False
+INV000067,A0003,Partner (Reseller),2026-03-01,AI add-on billed after bundle,167140.08,114174.0,52966.08,Issue credit memo,Paid,False
+INV001193,A0050,Direct - Law Firm,2026-01-01,Overage not billed,36662.96,85139.36,-48476.4,Rebill / supplemental invoice,Paid,False
+INV001074,A0045,Partner (Reseller),2026-02-01,AI add-on billed after bundle,185540.16,137250.0,48290.16,Issue credit memo,Paid,False
+INV001412,A0059,Partner (Reseller),2026-04-01,Overage not billed,47250.0,95287.5,-48037.5,Rebill / supplemental invoice,Paid,False
+INV000884,A0037,Partner (Reseller),2026-04-01,AI add-on billed after bundle,187404.44,140415.0,46989.44,Issue credit memo,Disputed,True
+INV001795,A0075,Partner (Reseller),2026-03-01,AI add-on billed after bundle,190820.32,144750.0,46070.32,Issue credit memo,Paid,False
+INV002518,A0105,Partner (Reseller),2026-06-01,Stale v1 rate after renewal,172351.2,215439.0,-43087.8,Rebill / supplemental invoice,Open,False
+INV002338,A0098,Partner (Reseller),2025-06-01,Overage not billed,178664.24,220823.84,-42159.6,Rebill / supplemental invoice,Paid,False
+INV002519,A0105,Partner (Reseller),2026-07-01,Stale v1 rate after renewal,168154.8,210193.5,-42038.7,Rebill / supplemental invoice,Open,False
+INV002174,A0091,Direct - Corporate,2025-10-01,Overage not billed,34464.72,76104.72,-41640.0,Rebill / supplemental invoice,Paid,False
+INV000247,A0011,Partner (Reseller),2025-03-01,Overage not billed,121072.32,161423.52,-40351.2,Rebill / supplemental invoice,Paid,False
+INV001818,A0076,Direct - Corporate,2026-02-01,AI add-on billed after bundle,137086.88,96780.0,40306.88,Issue credit memo,Paid,True
+INV002391,A0100,Partner (Reseller),2025-11-01,AI add-on billed after bundle,177252.18,137086.5,40165.68,Issue credit memo,Paid,False
+INV000064,A0003,Partner (Reseller),2025-12-01,v2 rate applied before renewal,178867.5,217333.04,-38465.54,Rebill / supplemental invoice,Paid,False
+INV001546,A0065,Partner (Reseller),2025-06-01,Overage not billed,166722.24,203268.24,-36546.0,Rebill / supplemental invoice,Paid,False
+INV000066,A0003,Partner (Reseller),2026-02-01,AI add-on billed after bundle,230536.94,194299.5,36237.44,Issue credit memo,Paid,True
+INV000164,A0007,Direct - Corporate,2026-04-01,AI add-on billed after bundle,118883.96,82869.0,36014.96,Issue credit memo,Paid,False
+INV002087,A0087,Partner (Reseller),2026-07-01,AI add-on billed after bundle,264762.64,228966.0,35796.64,Issue credit memo,Disputed,True
+INV001555,A0065,Partner (Reseller),2026-03-01,v2 rate applied before renewal,462957.0,498187.52,-35230.52,Rebill / supplemental invoice,Paid,False
+INV000057,A0003,Partner (Reseller),2025-05-01,Overage not billed,108232.0,142051.6,-33819.6,Rebill / supplemental invoice,Paid,False
+INV000502,A0021,Partner (Reseller),2026-06-01,AI add-on billed after bundle,142170.4,108750.0,33420.4,Issue credit memo,Open,False
+INV002061,A0086,Partner (Reseller),2026-05-01,Stale v1 rate after renewal,131072.4,163840.5,-32768.1,Rebill / supplemental invoice,Open,False
+INV000980,A0041,Partner (Reseller),2026-04-01,Overage not billed,154871.04,187242.24,-32371.2,Rebill / supplemental invoice,Paid,False
+INV000712,A0030,Direct - Corporate,2025-12-01,Stale v1 rate after renewal,129429.6,161787.0,-32357.4,Rebill / supplemental invoice,Paid,False
+INV002569,A0108,Partner (Reseller),2024-09-01,Overage not billed,34313.04,66267.84,-31954.8,Rebill / supplemental invoice,Paid,False
+INV000693,A0029,Partner (Reseller),2026-05-01,AI add-on billed after bundle,130467.1,100939.5,29527.6,Issue credit memo,Open,False
+INV000933,A0039,Partner (Reseller),2026-05-01,AI add-on billed after bundle,150450.8,121500.0,28950.8,Issue credit memo,Paid,False
+INV002681,A0112,Partner (Reseller),2026-01-01,Stale v1 rate after renewal,114279.6,142849.5,-28569.9,Rebill / supplemental invoice,Paid,False
+INV000921,A0039,Partner (Reseller),2025-05-01,Overage not billed,158100.56,186630.56,-28530.0,Rebill / supplemental invoice,Paid,False
+INV002682,A0112,Partner (Reseller),2026-02-01,Stale v1 rate after renewal,112867.2,141084.0,-28216.8,Rebill / supplemental invoice,Paid,False
+INV000883,A0037,Partner (Reseller),2026-03-01,Stale v1 rate after renewal,110355.6,137944.5,-27588.9,Rebill / supplemental invoice,Paid,False
+INV001410,A0059,Partner (Reseller),2026-02-01,AI add-on billed after bundle,112307.66,85495.5,26812.16,Issue credit memo,Paid,False
+INV002585,A0108,Partner (Reseller),2026-01-01,Overage not billed,35250.0,61686.0,-26436.0,Rebill / supplemental invoice,Paid,False
+INV002392,A0100,Partner (Reseller),2025-12-01,Stale v1 rate after renewal,105502.8,131878.5,-26375.7,Rebill / supplemental invoice,Paid,True
+INV000068,A0003,Partner (Reseller),2026-04-01,AI add-on billed after bundle,131120.2,105273.0,25847.2,Issue credit memo,Disputed,True
+INV000931,A0039,Partner (Reseller),2026-03-01,AI add-on billed after bundle,172322.22,146491.5,25830.72,Issue credit memo,Paid,False
+INV002579,A0108,Partner (Reseller),2025-07-01,Overage not billed,52868.8,78388.0,-25519.2,Rebill / supplemental invoice,Paid,False
+INV000932,A0039,Partner (Reseller),2026-04-01,Stale v1 rate after renewal,97200.0,121500.0,-24300.0,Rebill / supplemental invoice,Paid,False
+INV000069,A0003,Partner (Reseller),2026-05-01,Overage not billed,96000.0,119400.0,-23400.0,Rebill / supplemental invoice,Open,False
+INV002228,A0093,Direct - Corporate,2026-04-01,Overage not billed,19659.44,42905.84,-23246.4,Rebill / supplemental invoice,Paid,False
+INV001633,A0069,Partner (Reseller),2024-09-01,Overage not billed,74305.6,96344.8,-22039.2,Rebill / supplemental invoice,Paid,False
+INV001723,A0072,Direct - Corporate,2026-03-01,Overage not billed,31862.88,53081.28,-21218.4,Rebill / supplemental invoice,Paid,False
+INV001221,A0051,Partner (Reseller),2026-05-01,Overage not billed,118500.0,139548.0,-21048.0,Rebill / supplemental invoice,Paid,False
+INV001538,A0065,Partner (Reseller),2024-10-01,Overage not billed,106551.92,127280.72,-20728.8,Rebill / supplemental invoice,Paid,False
+INV001246,A0052,Direct - Corporate,2026-06-01,AI add-on billed after bundle,71150.0,50772.0,20378.0,Issue credit memo,Disputed,True
+INV000070,A0003,Partner (Reseller),2026-06-01,Overage not billed,96000.0,116325.0,-20325.0,Rebill / supplemental invoice,Open,False
+INV001743,A0073,Partner (Reseller),2025-11-01,Overage not billed,56429.68,76364.08,-19934.4,Rebill / supplemental invoice,Paid,False
+INV001073,A0045,Partner (Reseller),2026-01-01,AI add-on billed after bundle,156752.32,137250.0,19502.32,Issue credit memo,Paid,True
+INV002422,A0101,Direct - Corporate,2026-06-01,AI add-on billed after bundle,59800.28,41271.0,18529.28,Issue credit memo,Disputed,True
+INV000117,A0005,Partner (Reseller),2026-05-01,v2 rate applied before renewal,147000.0,129041.12,17958.88,Issue credit memo,Paid,False
+INV002661,A0111,Direct - Corporate,2026-05-01,AI add-on billed after bundle,70816.36,53079.0,17737.36,Issue credit memo,Paid,False
+INV001411,A0059,Partner (Reseller),2026-03-01,Stale v1 rate after renewal,70280.4,87850.5,-17570.1,Rebill / supplemental invoice,Paid,False
+INV002753,A0115,Partner (Reseller),2026-01-01,Stale v1 rate after renewal,65400.0,81750.0,-16350.0,Rebill / supplemental invoice,Paid,False
+INV002752,A0115,Partner (Reseller),2025-12-01,Stale v1 rate after renewal,65400.0,81750.0,-16350.0,Rebill / supplemental invoice,Paid,False
+INV002754,A0115,Partner (Reseller),2026-02-01,Stale v1 rate after renewal,65400.0,81750.0,-16350.0,Rebill / supplemental invoice,Paid,False
+INV001102,A0046,Partner (Reseller),2026-06-01,v2 rate applied before renewal,306592.5,319310.0,-12717.5,Rebill / supplemental invoice,Disputed,True
+INV001028,A0043,Partner (Reseller),2026-04-01,v2 rate applied before renewal,95250.0,83002.88,12247.12,Issue credit memo,Paid,False
+INV001726,A0072,Direct - Corporate,2026-06-01,Stale v1 rate after renewal,48939.6,61174.5,-12234.9,Rebill / supplemental invoice,Paid,False
+INV001509,A0063,Direct - Law Firm,2026-05-01,Overage not billed,7500.0,19599.0,-12099.0,Rebill / supplemental invoice,Paid,False
+INV002852,A0119,Direct - Law Firm,2026-04-01,Overage not billed,14899.68,26660.88,-11761.2,Rebill / supplemental invoice,Paid,False
+INV002679,A0112,Partner (Reseller),2025-11-01,v2 rate applied before renewal,151210.5,162938.08,-11727.58,Rebill / supplemental invoice,Paid,True
+INV001577,A0066,Partner (Reseller),2026-01-01,AI add-on billed after bundle,54290.08,42750.0,11540.08,Issue credit memo,Paid,False
+INV002044,A0086,Partner (Reseller),2024-12-01,Overage not billed,83331.84,94832.64,-11500.8,Rebill / supplemental invoice,Paid,False
+INV001772,A0074,Direct - Law Firm,2026-04-01,AI add-on billed after bundle,36973.96,25677.0,11296.96,Issue credit memo,Paid,False
+INV000790,A0033,Direct - Law Firm,2026-06-01,AI add-on billed after bundle,36585.76,25392.0,11193.76,Issue credit memo,Disputed,True
+INV000209,A0009,Direct - Corporate,2026-01-01,AI add-on billed after bundle,43399.28,32250.0,11149.28,Issue credit memo,Paid,True
+INV001600,A0067,Direct - Corporate,2025-12-01,v2 rate applied before renewal,62764.5,72971.44,-10206.94,Rebill / supplemental invoice,Paid,False
+INV000138,A0006,Direct - Corporate,2026-02-01,AI add-on billed after bundle,30674.84,20835.0,9839.84,Issue credit memo,Paid,False
+INV001674,A0070,Partner (Reseller),2026-02-01,AI add-on billed after bundle,153934.72,144750.0,9184.72,Issue credit memo,Paid,True
+INV001959,A0082,Direct - Corporate,2025-11-01,Overage not billed,16674.16,25666.96,-8992.8,Rebill / supplemental invoice,Paid,False
+INV000091,A0004,Direct - Corporate,2026-03-01,AI add-on billed after bundle,32238.0,23250.0,8988.0,Issue credit memo,Paid,False
+INV001350,A0057,Direct - Corporate,2025-02-01,Overage not billed,33311.84,42297.44,-8985.6,Rebill / supplemental invoice,Paid,False
+INV001533,A0064,Direct - Corporate,2026-05-01,AI add-on billed after bundle,30829.3,22066.5,8762.8,Issue credit memo,Paid,False
+INV001736,A0073,Partner (Reseller),2025-04-01,Overage not billed,46889.28,55626.48,-8737.2,Rebill / supplemental invoice,Paid,False
+INV000679,A0029,Partner (Reseller),2025-03-01,Overage not billed,33651.92,42386.72,-8734.8,Rebill / supplemental invoice,Paid,False
+INV001386,A0058,Partner (Reseller),2026-02-01,v2 rate applied before renewal,73500.0,64785.92,8714.08,Issue credit memo,Paid,False
+INV001576,A0066,Partner (Reseller),2025-12-01,Stale v1 rate after renewal,34200.0,42750.0,-8550.0,Rebill / supplemental invoice,Paid,False
+INV001575,A0066,Partner (Reseller),2025-11-01,Stale v1 rate after renewal,34200.0,42750.0,-8550.0,Rebill / supplemental invoice,Paid,False
+INV002875,A0120,Direct - Law Firm,2026-03-01,AI add-on billed after bundle,30206.1,21718.5,8487.6,Issue credit memo,Paid,False
+INV000694,A0029,Partner (Reseller),2026-06-01,Stale v1 rate after renewal,33866.4,42333.0,-8466.6,Rebill / supplemental invoice,Open,False
+INV001638,A0069,Partner (Reseller),2025-02-01,Overage not billed,69982.88,78066.08,-8083.2,Rebill / supplemental invoice,Paid,False
+INV002155,A0090,Direct - Corporate,2026-03-01,AI add-on billed after bundle,41379.9,33349.5,8030.4,Issue credit memo,Paid,False
+INV000866,A0037,Partner (Reseller),2024-10-01,Overage not billed,28924.08,36596.88,-7672.8,Rebill / supplemental invoice,Paid,False
+INV001636,A0069,Partner (Reseller),2024-12-01,Overage not billed,81127.92,88713.12,-7585.2,Rebill / supplemental invoice,Paid,False
+INV002420,A0101,Direct - Corporate,2026-04-01,Stale v1 rate after renewal,29311.2,36639.0,-7327.8,Rebill / supplemental invoice,Paid,False
+INV000089,A0004,Direct - Corporate,2026-01-01,Stale v1 rate after renewal,29089.2,36361.5,-7272.3,Rebill / supplemental invoice,Paid,False
+INV002154,A0090,Direct - Corporate,2026-02-01,Stale v1 rate after renewal,29079.6,36349.5,-7269.9,Rebill / supplemental invoice,Paid,False
+INV000046,A0002,Direct - Law Firm,2026-06-01,AI add-on billed after bundle,24508.64,17310.0,7198.64,Issue credit memo,Paid,False
+INV000383,A0016,Direct - Law Firm,2026-07-01,AI add-on billed after bundle,23665.02,16609.5,7055.52,Issue credit memo,Disputed,True
+INV001437,A0060,Direct - Corporate,2026-05-01,AI add-on billed after bundle,34692.48,27750.0,6942.48,Issue credit memo,Paid,True
+INV001941,A0081,Direct - Corporate,2026-05-01,Stale v1 rate after renewal,27000.0,33750.0,-6750.0,Rebill / supplemental invoice,Paid,False
+INV002320,A0097,Partner (Reseller),2025-12-01,v2 rate applied before renewal,245496.0,238773.92,6722.08,Issue credit memo,Paid,True
+INV002467,A0103,Partner (Reseller),2026-03-01,v2 rate applied before renewal,138756.0,132172.72,6583.28,Issue credit memo,Paid,False
+INV000791,A0033,Direct - Law Firm,2026-07-01,Overage not billed,16500.0,22740.0,-6240.0,Rebill / supplemental invoice,Open,False
+INV001366,A0057,Direct - Corporate,2026-06-01,AI add-on billed after bundle,37641.44,31500.0,6141.44,Issue credit memo,Paid,False
+INV002652,A0111,Direct - Corporate,2025-08-01,Overage not billed,52558.72,58613.92,-6055.2,Rebill / supplemental invoice,Paid,False
+INV000402,A0017,Direct - Corporate,2026-02-01,Stale v1 rate after renewal,23988.0,29985.0,-5997.0,Rebill / supplemental invoice,Paid,False
+INV001319,A0055,Partner (Reseller),2026-07-01,AI add-on billed after bundle,48711.84,42750.0,5961.84,Issue credit memo,Open,False
+INV000427,A0018,Direct - Corporate,2026-03-01,AI add-on billed after bundle,37289.68,31500.0,5789.68,Issue credit memo,Paid,False
+INV000550,A0023,Direct - Corporate,2026-06-01,v2 rate applied before renewal,23002.5,28697.6,-5695.1,Rebill / supplemental invoice,Disputed,True
+INV001390,A0058,Partner (Reseller),2026-06-01,AI add-on billed after bundle,79166.8,73500.0,5666.8,Issue credit memo,Open,False
+INV002491,A0104,Direct - Law Firm,2026-03-01,Stale v1 rate after renewal,22358.4,27948.0,-5589.6,Rebill / supplemental invoice,Paid,False
+INV002809,A0118,Direct - Corporate,2024-09-01,Overage not billed,19508.0,25042.4,-5534.4,Rebill / supplemental invoice,Paid,False
+INV002230,A0093,Direct - Corporate,2026-06-01,Stale v1 rate after renewal,22106.4,27633.0,-5526.6,Rebill / supplemental invoice,Open,False
+INV000743,A0031,Direct - Law Firm,2026-07-01,AI add-on billed after bundle,22775.14,17284.5,5490.64,Issue credit memo,Disputed,True
+INV001508,A0063,Direct - Law Firm,2026-04-01,Stale v1 rate after renewal,21718.8,27148.5,-5429.7,Rebill / supplemental invoice,Paid,False
+INV001587,A0067,Direct - Corporate,2024-11-01,Overage not billed,37644.0,42976.8,-5332.8,Rebill / supplemental invoice,Paid,False
+INV001243,A0052,Direct - Corporate,2026-03-01,AI add-on billed after bundle,41865.52,36750.0,5115.52,Issue credit memo,Paid,False
+INV001199,A0050,Direct - Law Firm,2026-07-01,Stale v1 rate after renewal,19664.4,24580.5,-4916.1,Rebill / supplemental invoice,Paid,False
+INV002319,A0097,Partner (Reseller),2025-11-01,v2 rate applied before renewal,141750.0,146592.64,-4842.64,Rebill / supplemental invoice,Paid,True
+INV000789,A0033,Direct - Law Firm,2026-05-01,Stale v1 rate after renewal,19075.2,23844.0,-4768.8,Rebill / supplemental invoice,Disputed,True
+INV002582,A0108,Partner (Reseller),2025-10-01,Overage not billed,35694.32,40455.92,-4761.6,Rebill / supplemental invoice,Paid,False
+INV000088,A0004,Direct - Corporate,2025-12-01,Stale v1 rate after renewal,18600.0,23250.0,-4650.0,Rebill / supplemental invoice,Paid,False
+INV000404,A0017,Direct - Corporate,2026-04-01,AI add-on billed after bundle,36485.54,31882.5,4603.04,Issue credit memo,Paid,False
+INV002134,A0089,Direct - Corporate,2026-06-01,AI add-on billed after bundle,23400.28,18837.0,4563.28,Issue credit memo,Disputed,True
+INV001436,A0060,Direct - Corporate,2026-04-01,AI add-on billed after bundle,32273.12,27750.0,4523.12,Issue credit memo,Disputed,True
+INV000643,A0027,Direct - Law Firm,2026-03-01,AI add-on billed after bundle,15741.76,11250.0,4491.76,Issue credit memo,Paid,True
+INV000809,A0034,Direct - Corporate,2026-01-01,v2 rate applied before renewal,50473.5,54936.32,-4462.82,Rebill / supplemental invoice,Paid,False
+INV002200,A0092,Direct - Law Firm,2025-12-01,AI add-on billed after bundle,19274.32,14886.0,4388.32,Issue credit memo,Paid,False
+INV000392,A0017,Direct - Corporate,2025-04-01,Overage not billed,21807.12,26188.32,-4381.2,Rebill / supplemental invoice,Paid,False
+INV000766,A0032,Direct - Corporate,2026-06-01,AI add-on billed after bundle,20653.24,16347.0,4306.24,Issue credit memo,Disputed,True
+INV001393,A0059,Partner (Reseller),2024-09-01,Overage not billed,42598.64,46893.44,-4294.8,Rebill / supplemental invoice,Paid,False
+INV000428,A0018,Direct - Corporate,2026-04-01,AI add-on billed after bundle,35750.88,31500.0,4250.88,Issue credit memo,Paid,False
+INV000393,A0017,Direct - Corporate,2025-05-01,Overage not billed,22523.76,26597.76,-4074.0,Rebill / supplemental invoice,Paid,False
+INV000137,A0006,Direct - Corporate,2026-01-01,Stale v1 rate after renewal,16129.2,20161.5,-4032.3,Rebill / supplemental invoice,Paid,False
+INV002439,A0102,Direct - Law Firm,2025-11-01,v2 rate applied before renewal,16302.0,20323.92,-4021.92,Rebill / supplemental invoice,Paid,True
+INV002562,A0107,Direct - Law Firm,2026-02-01,v2 rate applied before renewal,15757.5,19762.48,-4004.98,Rebill / supplemental invoice,Paid,True
+INV002372,A0099,Direct - Law Firm,2026-04-01,Overage not billed,4500.0,8442.0,-3942.0,Rebill / supplemental invoice,Paid,False
+INV001966,A0082,Direct - Corporate,2026-06-01,AI add-on billed after bundle,20506.18,16636.5,3869.68,Issue credit memo,Open,False
+INV001062,A0045,Partner (Reseller),2025-02-01,Overage not billed,131179.2,134859.6,-3680.4,Rebill / supplemental invoice,Paid,False
+INV000722,A0031,Direct - Law Firm,2024-10-01,Overage not billed,13225.2,16810.8,-3585.6,Rebill / supplemental invoice,Paid,False
+INV001766,A0074,Direct - Law Firm,2025-10-01,Overage not billed,18374.96,21925.76,-3550.8,Rebill / supplemental invoice,Paid,False
+INV000574,A0024,Direct - Law Firm,2026-06-01,Stale v1 rate after renewal,13276.8,16596.0,-3319.2,Rebill / supplemental invoice,Paid,False
+INV000763,A0032,Direct - Corporate,2026-03-01,Stale v1 rate after renewal,13256.4,16570.5,-3314.1,Rebill / supplemental invoice,Paid,True
+INV001125,A0047,Direct - Corporate,2026-05-01,AI add-on billed after bundle,10552.9,7366.5,3186.4,Issue credit memo,Disputed,True
+INV001170,A0049,Direct - Law Firm,2026-02-01,AI add-on billed after bundle,12563.34,9391.5,3171.84,Issue credit memo,Paid,False
+INV001599,A0067,Direct - Corporate,2025-11-01,v2 rate applied before renewal,54625.5,51468.8,3156.7,Issue credit memo,Paid,False
+INV002374,A0099,Direct - Law Firm,2026-06-01,AI add-on billed after bundle,21574.82,18472.5,3102.32,Issue credit memo,Paid,False
+INV001511,A0063,Direct - Law Firm,2026-07-01,AI add-on billed after bundle,13640.0,10614.0,3026.0,Issue credit memo,Open,False
+INV001389,A0058,Partner (Reseller),2026-05-01,AI add-on billed after bundle,76515.76,73500.0,3015.76,Issue credit memo,Disputed,True
+INV002489,A0104,Direct - Law Firm,2026-01-01,Stale v1 rate after renewal,11888.4,14860.5,-2972.1,Rebill / supplemental invoice,Paid,False
+INV000765,A0032,Direct - Corporate,2026-05-01,Stale v1 rate after renewal,11797.2,14746.5,-2949.3,Rebill / supplemental invoice,Paid,False
+INV002133,A0089,Direct - Corporate,2026-05-01,AI add-on billed after bundle,23156.42,20230.5,2925.92,Issue credit memo,Disputed,True
+INV001773,A0074,Direct - Law Firm,2026-05-01,AI add-on billed after bundle,23881.2,20958.0,2923.2,Issue credit memo,Paid,False
+INV001364,A0057,Direct - Corporate,2026-04-01,v2 rate applied before renewal,31500.0,28591.6,2908.4,Issue credit memo,Paid,True
+INV002447,A0102,Direct - Law Firm,2026-07-01,AI add-on billed after bundle,17123.04,14250.0,2873.04,Issue credit memo,Disputed,True
+INV001499,A0063,Direct - Law Firm,2025-07-01,Overage not billed,10925.92,13795.12,-2869.2,Rebill / supplemental invoice,Paid,False
+INV002202,A0092,Direct - Law Firm,2026-02-01,Stale v1 rate after renewal,11400.0,14250.0,-2850.0,Rebill / supplemental invoice,Paid,False
+INV000161,A0007,Direct - Corporate,2026-01-01,v2 rate applied before renewal,84735.0,81952.64,2782.36,Issue credit memo,Paid,True
+INV002203,A0092,Direct - Law Firm,2026-03-01,AI add-on billed after bundle,17016.24,14250.0,2766.24,Issue credit memo,Paid,False
+INV001003,A0042,Direct - Law Firm,2026-03-01,AI add-on billed after bundle,13800.8,11250.0,2550.8,Issue credit memo,Paid,True
+INV001144,A0048,Direct - Corporate,2025-12-01,Stale v1 rate after renewal,10200.0,12750.0,-2550.0,Rebill / supplemental invoice,Paid,False
+INV000741,A0031,Direct - Law Firm,2026-05-01,v2 rate applied before renewal,15681.0,18227.36,-2546.36,Rebill / supplemental invoice,Disputed,True
+INV002419,A0101,Direct - Corporate,2026-03-01,v2 rate applied before renewal,36589.5,39073.2,-2483.7,Rebill / supplemental invoice,Paid,False
+INV001937,A0081,Direct - Corporate,2026-01-01,v2 rate applied before renewal,33750.0,31386.72,2363.28,Issue credit memo,Paid,False
+INV001213,A0051,Partner (Reseller),2025-09-01,Overage not billed,117870.64,120220.24,-2349.6,Rebill / supplemental invoice,Paid,False
+INV000949,A0040,Direct - Law Firm,2025-09-01,Overage not billed,7650.8,9999.2,-2348.4,Rebill / supplemental invoice,Paid,False
+INV002841,A0119,Direct - Law Firm,2025-05-01,Overage not billed,11802.4,14146.0,-2343.6,Rebill / supplemental invoice,Paid,False
+INV000047,A0002,Direct - Law Firm,2026-07-01,AI add-on billed after bundle,18001.28,15750.0,2251.28,Issue credit memo,Open,False
+INV000641,A0027,Direct - Law Firm,2026-01-01,Stale v1 rate after renewal,9000.0,11250.0,-2250.0,Rebill / supplemental invoice,Paid,False
+INV000642,A0027,Direct - Law Firm,2026-02-01,AI add-on billed after bundle,13390.0,11250.0,2140.0,Issue credit memo,Paid,True
+INV002370,A0099,Direct - Law Firm,2026-02-01,v2 rate applied before renewal,8860.5,10876.16,-2015.66,Rebill / supplemental invoice,Paid,False
+INV002430,A0102,Direct - Law Firm,2025-02-01,Overage not billed,13122.16,14924.56,-1802.4,Rebill / supplemental invoice,Paid,False
+INV001986,A0083,Direct - Law Firm,2026-02-01,Stale v1 rate after renewal,7200.0,9000.0,-1800.0,Rebill / supplemental invoice,Paid,False
+INV000423,A0018,Direct - Corporate,2025-11-01,v2 rate applied before renewal,32259.0,33927.04,-1668.04,Rebill / supplemental invoice,Paid,False
+INV002874,A0120,Direct - Law Firm,2026-02-01,Stale v1 rate after renewal,6621.6,8277.0,-1655.4,Rebill / supplemental invoice,Paid,False
+INV002734,A0114,Direct - Law Firm,2026-06-01,Stale v1 rate after renewal,6600.0,8250.0,-1650.0,Rebill / supplemental invoice,Paid,False
+INV000739,A0031,Direct - Law Firm,2026-03-01,Overage not billed,17571.36,19146.96,-1575.6,Rebill / supplemental invoice,Paid,False
+INV001124,A0047,Direct - Corporate,2026-04-01,Stale v1 rate after renewal,6148.8,7686.0,-1537.2,Rebill / supplemental invoice,Paid,True
+INV001126,A0047,Direct - Corporate,2026-06-01,AI add-on billed after bundle,8722.66,7210.5,1512.16,Issue credit memo,Open,False
+INV002010,A0084,Partner (Reseller),2026-02-01,v2 rate applied before renewal,56250.0,57760.64,-1510.64,Rebill / supplemental invoice,Paid,True
+INV000002,A0001,Direct - Law Firm,2024-10-01,Overage not billed,15712.16,17208.56,-1496.4,Rebill / supplemental invoice,Paid,False
+INV001034,A0044,Direct - Corporate,2024-10-01,Overage not billed,8114.4,9609.6,-1495.2,Rebill / supplemental invoice,Paid,True
+INV002366,A0099,Direct - Law Firm,2025-10-01,Overage not billed,4497.28,5970.88,-1473.6,Rebill / supplemental invoice,Paid,False
+INV001172,A0049,Direct - Law Firm,2026-04-01,Stale v1 rate after renewal,5572.8,6966.0,-1393.2,Rebill / supplemental invoice,Paid,False
+INV001702,A0071,Direct - Law Firm,2026-06-01,Overage not billed,3160.72,4253.92,-1093.2,Rebill / supplemental invoice,Paid,False
+INV000928,A0039,Partner (Reseller),2025-12-01,Overage not billed,119767.2,120848.4,-1081.2,Rebill / supplemental invoice,Paid,False
+INV001984,A0083,Direct - Law Firm,2025-12-01,AI add-on billed after bundle,10035.2,9000.0,1035.2,Issue credit memo,Paid,True
+INV000783,A0033,Direct - Law Firm,2025-11-01,Overage not billed,19774.72,20733.52,-958.8,Rebill / supplemental invoice,Paid,False
+INV002407,A0101,Direct - Corporate,2025-03-01,Overage not billed,24285.36,25176.96,-891.6,Rebill / supplemental invoice,Paid,False
+INV001481,A0062,Direct - Law Firm,2026-01-01,Stale v1 rate after renewal,3513.6,4392.0,-878.4,Rebill / supplemental invoice,Paid,False
+INV000594,A0025,Direct - Law Firm,2026-02-01,Overage not billed,2981.92,3795.52,-813.6,Rebill / supplemental invoice,Paid,False
+INV000639,A0027,Direct - Law Firm,2025-11-01,v2 rate applied before renewal,11250.0,11921.12,-671.12,Rebill / supplemental invoice,Paid,True
+INV001720,A0072,Direct - Corporate,2025-12-01,v2 rate applied before renewal,24658.5,24035.76,622.74,Issue credit memo,Paid,True
+INV002776,A0116,Direct - Law Firm,2025-12-01,v2 rate applied before renewal,7500.0,8116.0,-616.0,Rebill / supplemental invoice,Paid,False
+INV002538,A0106,Direct - Corporate,2026-02-01,v2 rate applied before renewal,35551.5,34950.96,600.54,Issue credit memo,Paid,True
+INV002034,A0085,Direct - Law Firm,2026-02-01,Stale v1 rate after renewal,1800.0,2250.0,-450.0,Rebill / supplemental invoice,Paid,False
+INV000020,A0001,Direct - Law Firm,2026-04-01,v2 rate applied before renewal,15750.0,15361.12,388.88,Issue credit memo,Paid,False
+INV000958,A0040,Direct - Law Firm,2026-06-01,v2 rate applied before renewal,22068.0,22426.72,-358.72,Rebill / supplemental invoice,Paid,False
+INV001287,A0054,Direct - Law Firm,2025-11-01,v2 rate applied before renewal,14250.0,13930.72,319.28,Issue credit memo,Paid,False
+INV000652,A0028,Direct - Law Firm,2024-12-01,Overage not billed,13611.76,13922.56,-310.8,Rebill / supplemental invoice,Paid,False
+INV002632,A0110,Direct - Law Firm,2025-12-01,v2 rate applied before renewal,3942.0,4169.76,-227.76,Rebill / supplemental invoice,Paid,True
+INV001267,A0053,Direct - Corporate,2026-03-01,Overage not billed,20459.92,20624.32,-164.4,Rebill / supplemental invoice,Paid,False
+INV000951,A0040,Direct - Law Firm,2025-11-01,v2 rate applied before renewal,8001.0,7848.32,152.68,Issue credit memo,Paid,True
+INV000785,A0033,Direct - Law Firm,2026-01-01,v2 rate applied before renewal,17467.5,17519.76,-52.26,Rebill / supplemental invoice,Paid,False
+INV000228,A0010,Direct - Corporate,2025-08-01,Overage not billed,45149.04,45169.44,-20.4,Rebill / supplemental invoice,Paid,False

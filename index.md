@@ -22,6 +22,14 @@ gap analysis — and point them at public civic data.
 
 ## Projects
 
+### 🧾 [Pricing-Change Billing Audit: a Usage-Based SaaS Stress Test](https://github.com/gnikrj/portfolio/tree/main/projects/usage-billing-pricing-change-audit)
+**Newest.** What happens to billing accuracy — and cash — when a usage-priced
+SaaS company bundles a metered AI add-on into its per-GB rate and moves
+contracts over at renewal? Independently re-rates every invoice from
+contract × usage, finds leakage vs. over-billing, runs SOX-style control
+tests, and ties billing errors to disputes and channel DSO. Synthetic data;
+industry context from public sources.
+
 ### 🗳️ [Durham County Voter Registration & Turnout Analysis](https://github.com/gnikrj/portfolio/tree/main/projects/durham-voter-turnout-analysis)
 Where does Durham County's registration and turnout actually lag, and for
 whom? Combines NC SBE voter registration and history files with 2020 Census
