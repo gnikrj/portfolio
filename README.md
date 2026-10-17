@@ -11,7 +11,8 @@ gap analysis — and point them at public civic data.
 - 📄 [Resume](https://github.com/gnikrj/data-resume)
 
 > **A note on data:** projects below use either fully public data (NC State
-> Board of Elections, U.S. Census PL 94-171 redistricting data) or clearly
+> Board of Elections, U.S. Census PL 94-171 redistricting data, SEC EDGAR
+> filings) or clearly
 > labeled **synthetic** data standing in for real order-to-cash records. No
 > employer data and no non-public Bull City Votes data appears in this repo.
 
@@ -33,6 +34,15 @@ campaign prioritize first, and why.
 A synthetic order-to-cash dataset — DSO, aging buckets, and a scoring model
 for which accounts to chase first. The finance-side counterpart to the
 prioritization model above.
+
+### 🧩 [Bending Spoons Acquisition-Integration Model](https://github.com/gnikrj/portfolio/tree/main/projects/bending-spoons-integration-model)
+Bending Spoons grows by acquisition, so integration speed is a finance
+question. Using its Q2 2026 release, deal announcements and the acquired
+companies' old 10-Ks, this Excel model walks leverage through Airtable and
+Miro against the covenant, shows that each $100M of documented savings is
+worth roughly $400M of acquisition capacity, prices a month of Miro
+integration delay at ~$29M, and ends with the integration scorecard and
+12-month look-back I'd run on every deal.
 
 ---
 *More projects in progress — see each project's README for status and
